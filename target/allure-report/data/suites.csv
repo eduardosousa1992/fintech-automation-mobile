@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"  Como um usuário da plataforma financeira
+  Quero realizar a autenticação segura
+  Para gerenciar meus investimentos e saldo","15964","Validar login com sucesso","","2026-03-18","passed","2026-03-18","","Login no Aplicativo Fintech","Validar login com sucesso",""

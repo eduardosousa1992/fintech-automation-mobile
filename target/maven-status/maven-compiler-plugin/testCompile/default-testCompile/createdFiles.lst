@@ -1,0 +1,6 @@
+com\eduardosousa\automacao\runners\TestRunner.class
+com\eduardosousa\automacao\steps\LoginSteps.class
+com\eduardosousa\automacao\core\DriverFactory.class
+com\eduardosousa\automacao\pages\LoginPage.class
+com\eduardosousa\automacao\steps\Hooks.class
+br\com\bradesco\automacao\core\DriverFactory.class

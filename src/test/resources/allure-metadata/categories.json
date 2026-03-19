@@ -1,0 +1,17 @@
+﻿[
+  {
+    "name": "Infraestrutura (ADB/Appium Server)",
+    "matchedStatuses": ["broken"],
+    "messageRegex": ".*SessionNotCreatedException.*"
+  },
+  {
+    "name": "Defeito Funcional (Elemento não encontrado)",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*NoSuchElementException.*"
+  },
+  {
+    "name": "Erro de Timeout (Performance)",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*TimeoutException.*"
+  }
+]
